@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: わかめtube
+    name: 69期B組9番のお部屋
     env: node
     plan: free
     buildCommand: npm install
